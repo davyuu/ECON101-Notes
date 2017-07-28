@@ -76,3 +76,12 @@
 - monopoly sets its price at the hgihest levle at which is can sell the prifit-maxing quantity
 - monopoly might make profit even in the long run because barriers to entry protect the firm from market entry by competitors
 - but a monopoly that incurs loss might shutdown in the short run or exit market in long run
+
+### Monopoly Regulation
+
+- Rate of Return Regulation
+	- a firm must justify its price why showing its return on capital doesnt exceed target rate
+- Price Cap Regulation
+	- price ceiling
+	- rule specifies highest price firm can charge
+	-
