@@ -1,0 +1,33 @@
+# Chapter 17 - Public goods and common resources
+
+- excludable
+	- possitlbe to prevent someones from enjoying its benefits
+	- must pay to consume
+	- ex: concert
+- nonexcludable
+	- impossible to prevent anyone from benefiting
+	- ex: anyone can fish ni ocean
+- rival
+	- one person's use decreases quantity availble for someone else
+	- ex: truck cant deliver to two places at same tmie
+- nonrival
+	- one person's use does not decrease quantity availble4 for someone else
+	- ex: TV
+
+- private good
+	- rival and excludable
+	- ex: coke
+- public good
+	- nonrival and nonexcludable
+	- can be consumed simulaneously by everyone
+	- ex: national defence
+- common resource
+	- rival and nonexcludable
+	- can only be used once but no one can prevent
+	- ex: ocean fish
+- natural monopoly goods
+	- nonrival and excludable
+	- have to pay but more uses dont rival others
+	- fixed cost
+	- ex: internet, cable
+	-
